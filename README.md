@@ -1,3 +1,5 @@
+![Tests](https://github.com/OpMstrR/MotivAction/actions/workflows/tests.yml/badge.svg?branch=feature/test-task)
+
 # MotivAction
 Проєкт для ПППІ.
 MotivAction -  застосунок, який перетворює виконання завдань на божевільну гру з квестами , бонусами, веселими покараннями.
