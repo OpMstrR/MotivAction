@@ -10,3 +10,9 @@ MotivAction -  застосунок, який перетворює викона�
  
 <a href="https://github.com/OpMstrR/MotivAction/tree/main/docs/architecture">Натисніть щоб перейти до Architecture</a>
 <img width="1728" height="1737" alt="architecture_v1" src="https://github.com/user-attachments/assets/e6699309-36ef-49df-a483-943829a84aca" />
+
+
+## API Documentation
+
+Postman Collection:
+[📄 Download](docs/api/postman_collection.json)
