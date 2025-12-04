@@ -15,4 +15,4 @@ MotivAction -  застосунок, який перетворює викона�
 ## API Documentation
 
 Postman Collection:
-[📄 Download](docs/api/postman_collection.json)
+[📄 Натисність щоб перейти до Postman Collection](docs/api/postman_collection.json)
